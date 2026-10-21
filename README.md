@@ -7,7 +7,6 @@ Architecture work for a self-directed learning programme (projects P1-P4): TOGAF
 
 ## Layout
 
-
 | Folder         | Closest TOGAF Architecture Repository class | Contents                                       |
 | -------------- | ------------------------------------------- | ---------------------------------------------- |
 | `preliminary/` | Architecture Capability                     | Scope, tailoring, architecture characteristics |
@@ -17,14 +16,13 @@ Architecture work for a self-directed learning programme (projects P1-P4): TOGAF
 
 ## Status
 
-
 | Artefact                    | Version | Status   |
 | --------------------------- | ------- | -------- |
 | Scope and tailoring         | 0.1     | Draft    |
 | Characteristics             | 0.1     | Draft    |
 | Principles (8)              | 0.1     | Draft    |
 | C4 context (S1)             | 0.1     | Draft    |
-| ADR-0001 IRIS vs SQL Server | —       | Proposed |
+| ADR-0001 IRIS vs SQL Server | 1.0     | Accepted |
 
 ## Related repositories
 
