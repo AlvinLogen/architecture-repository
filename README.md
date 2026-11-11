@@ -18,11 +18,11 @@ Architecture work for a self-directed learning programme (projects P1-P4): TOGAF
 
 | Artefact                    | Version | Status   |
 | --------------------------- | ------- | -------- |
-| Scope and tailoring         | 0.1     | Draft    |
-| Characteristics             | 0.1     | Draft    |
-| Principles (8)              | 0.1     | Draft    |
-| C4 context (S1)             | 0.1     | Draft    |
-| ADR-0001 IRIS vs SQL Server | 1.0     | Accepted |
+| [Scope and tailoring](preliminary/scope.md) | 0.1 | Draft |
+| [Characteristics](preliminary/characteristics.md) | 0.1 | Draft |
+| [Principles (8)](principles/principles.md) | 0.1 | Draft |
+| [C4 context (S1)](diagrams/c4-context.md) | 0.1 | Draft |
+| [ADR-0001 IRIS vs SQL Server](adr/0001-iris-persistence-vs-sql-server.md) | 1.0 | Accepted |
 
 ## Related repositories
 
